@@ -35,7 +35,7 @@ Projeto em Python projetado para buscar ocorrências de uma palavra específica 
 1.Clone o repositório:
 
   ```bash
-  git clone git@github.com:lionelsu/project-algorithms.git && cd project-algorithms
+  git clone git@github.com:lionelsu/project-ting.git && cd project-ting
   ```
 
 2.Crie um ambiente virtual:
